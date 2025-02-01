@@ -1,0 +1,44 @@
+.wrapper{
+ 
+  display:flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items:center;
+  /* height:100vh;
+  width:100vh; */
+}
+
+.accordion{
+  width:500px;
+  background-color: teal;
+  margin: 50px;
+}
+
+.item{
+  background-color: pink;
+  padding: 10px 20px;
+  margin: 10px;
+  align-content: center;
+  font-style: italic;
+  color:blueviolet;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.heading{
+  text-align: center;
+  color:teal;
+}
+
+.btn{
+  text-align: center;
+  margin-left:560px;
+  border-radius: 12%;
+  height: 50px;
+  width:200px;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: pink;
+  cursor:pointer;
+  
+}
